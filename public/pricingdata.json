@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Starter",
+    "price": 1500,
+    "billingCycle": "month",
+    "popular": false,
+    "description": "Ideal for beginners and self-motivated individuals looking for essential gym access and cardio equipment.",
+    "features": [
+      "Access to gym floor (6:00 AM - 10:00 PM)",
+      "Full access to cardio and free weights area",
+      "Free locker room and shower facilities",
+      "1 complimentary initial fitness assessment",
+      "Free Wi-Fi access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro Fitness",
+    "price": 3000,
+    "billingCycle": "month",
+    "popular": true,
+    "description": "Our most popular plan designed for dedicated fitness enthusiasts seeking group workouts and structured guidance.",
+    "features": [
+      "Everything in Basic Starter",
+      "24/7 unlimited gym access",
+      "Unlimited group fitness classes (HIIT, Yoga, Zumba)",
+      "Monthly body composition & progress tracking",
+      "2 personal training sessions per month",
+      "Access to sauna and steam room"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Elite Transformation",
+    "price": 5500,
+    "billingCycle": "month",
+    "popular": false,
+    "description": "All-inclusive VIP package tailored for maximum results with dedicated coaching and customized nutrition.",
+    "features": [
+      "Everything in Pro Fitness",
+      "12 personal training sessions per month (3x/week)",
+      "Customized monthly meal & nutrition plan",
+      "Priority booking for all classes and equipment",
+      "Complimentary protein shakes after workouts",
+      "2 free guest passes per month"
+    ]
+  }
+]
